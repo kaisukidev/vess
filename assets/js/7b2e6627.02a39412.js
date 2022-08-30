@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvess=self.webpackChunkvess||[]).push([[3846],{4366:s=>{s.exports=JSON.parse('{"permalink":"/vess/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

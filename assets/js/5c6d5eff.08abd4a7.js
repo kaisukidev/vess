@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvess=self.webpackChunkvess||[]).push([[2216],{7441:e=>{e.exports=JSON.parse('{"permalink":"/vess/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
